@@ -12,6 +12,9 @@ public static void main(String args[])
   n2=n3;    
 
   System.out.println("Hii java");
+
+int a=10+20;
+int c = 50-40;
  }    
   
 }}  
